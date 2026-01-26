@@ -22,11 +22,3 @@ ZSH_THEME="nerd_prompt"
 # 3. Reload
 source ~/.zshrc
 ```
-
-## 🎨 Git Indicators
-
-- `` = Clean | `` = Dirty
-- `⇡2` = 2 ahead | `⇣3` = 3 behind | `⇕2/1` = Diverged
-- **Green branch** = clean | **Red branch** = uncommitted changes
-
----
